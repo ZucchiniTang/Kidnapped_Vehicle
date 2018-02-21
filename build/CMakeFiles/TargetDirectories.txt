@@ -1,0 +1,3 @@
+/media/qing/linux/udacity/Self-drving Car_term2/Lesson_Project_Kidnapped_Vehicle/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project/build/CMakeFiles/rebuild_cache.dir
+/media/qing/linux/udacity/Self-drving Car_term2/Lesson_Project_Kidnapped_Vehicle/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project/build/CMakeFiles/edit_cache.dir
+/media/qing/linux/udacity/Self-drving Car_term2/Lesson_Project_Kidnapped_Vehicle/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project/build/CMakeFiles/particle_filter.dir
